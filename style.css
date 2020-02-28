@@ -23,8 +23,8 @@
     background:#fff!important;
 }
 
-/* press ctrl+~ to open terminal */
 
+/* Give 10 minutes until deployment */
 .header{
     background: url('./images/silver-and-white-keyboards-flat-lay.jpg');
     background-attachment: fixed;
